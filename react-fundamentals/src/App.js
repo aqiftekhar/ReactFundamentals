@@ -7,22 +7,22 @@ const INITIAL_EXPENSES = [
   {
     title: "New Desk (wooden)",
     amount: 450,
-    date: new Date(2019, 5, 9),
+    date: new Date(2019, 8, 9),
   },
   {
     title: "New Chair (wooden)",
     amount: 200,
-    date: new Date(2020, 5, 15),
+    date: new Date(2020, 3, 15),
   },
   {
     title: "Iron Board",
     amount: 200,
-    date: new Date(2020, 5, 22),
+    date: new Date(2020, 1, 22),
   },
   {
     title: "Cloths",
     amount: 240,
-    date: new Date(2021, 5, 22),
+    date: new Date(2021, 11, 22),
   },
 ];
 
