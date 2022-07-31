@@ -24,11 +24,6 @@ const INITIAL_EXPENSES = [
     amount: 240,
     date: new Date(2021, 5, 22),
   },
-  {
-    title: "Iron Board",
-    amount: 200,
-    date: new Date(2022, 5, 22),
-  },
 ];
 
 const App = () => {
